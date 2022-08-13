@@ -150,9 +150,9 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
 
 <details id=4>
 <summary><h2>Step 4: Apply suggested changes</h2></summary>
+```suggestion
 
 _Nicely done suggesting changes! :partying_face:_
-
 Now let's see how easy it is to [apply your suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
 
 ### :keyboard: Activity: Apply suggested changes
